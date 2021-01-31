@@ -1,0 +1,10 @@
+#folder
+
+.vscode/
+__pycache__/
+build/
+dist/
+
+#files
+
+*.spec
